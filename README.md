@@ -1,2 +1,28 @@
 # awesome-edgetpu
-awesome edgetpu
+The products,docs,resources,software,tools,scripts,models
+
+### Contents
+- [Awesome edgetpu](#awesome-go)
+    - [Products](#products)
+    - [Docs](#docs)
+    - [Resources](#resources)
+    - [Scripts](#scripts)
+    - [Software](#software)
+    - [Tools](#tools)
+	- [Models](#models)
+- [Product](#product)
+	- [Products](https://coral.withgoogle.com/products/)
+- [Official Docs](#docs)
+	- [Official  Docs](https://coral.withgoogle.com/docs/)
+- [Resources](#resources)
+	- [Official Resources](https://coral.withgoogle.com/resources/)
+- [Scripts](#scripts)
+	- [edge_tpu_python_scripts](https://github.com/freedomtan/edge_tpu_python_scripts)
+	- [edgetpu-native](https://github.com/freedomtan/edgetpu-native/)
+- [Software](#software)
+	- [Model play](https://model.gravitylink.com/)
+- [Tools](#tools)
+	- [Edge TPU Model Compiler](https://coral.withgoogle.com/web-compiler/)
+	- [Model Play App]()
+- [Models](#models)
+	- [Official Model](https://coral.withgoogle.com/models/)
