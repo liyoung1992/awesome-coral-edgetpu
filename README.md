@@ -26,3 +26,4 @@ The products,docs,resources,software,tools,scripts,models
 	- [Model Play App]()
 - [Models](#models)
 	- [Official Model](https://coral.withgoogle.com/models/)
+    - [Gravity Model Play](https://model.gravitylink.com/model-list)
