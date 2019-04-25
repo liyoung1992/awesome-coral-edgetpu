@@ -1,5 +1,5 @@
 # awesome-edgetpu
-The products,docs,resources,software,tools,scripts,models
+The products,docs,resources,software,tools,scripts,models,demos
 
 ### Contents
 - [Awesome edgetpu](#awesome-go)
@@ -10,6 +10,7 @@ The products,docs,resources,software,tools,scripts,models
     - [Software](#software)
     - [Tools](#tools)
 	- [Models](#models)
+    - [Demos](#demos)
 - [Product](#product)
 	- [Products](https://coral.withgoogle.com/products/)
 - [Official Docs](#docs)
@@ -27,3 +28,8 @@ The products,docs,resources,software,tools,scripts,models
 - [Models](#models)
 	- [Official Model](https://coral.withgoogle.com/models/)
     - [Gravity Model Play](https://model.gravitylink.com/model-list)
+- [Demos](#demos)
+    - [Coral Edge TPU on the Raspberry Pi Object Detection in Processing Demo](https://github.com/oveddan/edge_tpu_processing_demo)
+    - [Raspberry Pi Supplement to Coral Edge TPU Demo](https://github.com/nickoala/edgetpu-on-pi)
+    - [A deep learning autonomous car built with Raspberry Pi (3 Model B+), SunFounder PiCar-V Kit, TensorFlow, and Google's EdgeTPU Co-Processor.](https://github.com/dctian/DeepPiCar)
+ 
