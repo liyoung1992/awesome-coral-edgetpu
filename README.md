@@ -1,4 +1,4 @@
-# awesome-edgetpu
+# awesome-coral-edgetpu
 The products,docs,resources,software,tools,scripts,models,demos
 
 ### Contents
