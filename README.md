@@ -27,7 +27,7 @@ The products,docs,resources,software,tools,scripts,models,demos
 	- [GravityLink Model Play App](https://play.google.com/store/apps/details?id=com.gravitylink.modelStore)
 - [Models](#models)
 	- [Official Model](https://coral.withgoogle.com/models/)
-    - [GravityLink Model Play](https://model.gravitylink.com/model-list)
+    - [GravityLink Model Play](https://model.gravitylink.com/models)
 - [Demos](#demos)
     - [Coral Edge TPU on the Raspberry Pi Object Detection in Processing Demo](https://github.com/oveddan/edge_tpu_processing_demo)
     - [Raspberry Pi Supplement to Coral Edge TPU Demo](https://github.com/nickoala/edgetpu-on-pi)
