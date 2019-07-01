@@ -33,3 +33,4 @@ The products,docs,resources,software,tools,scripts,models,demos
     - [Raspberry Pi Supplement to Coral Edge TPU Demo](https://github.com/nickoala/edgetpu-on-pi)
     - [A deep learning autonomous car built with Raspberry Pi (3 Model B+), SunFounder PiCar-V Kit, TensorFlow, and Google's EdgeTPU Co-Processor.](https://github.com/dctian/DeepPiCar)
     - [Docker with Raspbian, SSH and the Coral USB Edge TPU libraries.](https://github.com/lemariva/raspbian-EdgeTPU)
+    - [Edge TPU object detection on Raspberry Pi with Coral USB Accelerator by integrating TensorFlow Lite C++ API and Qt/QML](https://github.com/MechatronicsBlog/RaspberryPi_EdgeTPU_TFLite_Qt)
