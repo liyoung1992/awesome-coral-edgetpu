@@ -24,6 +24,7 @@ The products,docs,resources,software,tools,scripts,models,demos
 	- [GravityLink Model play](https://model.gravitylink.com/)
 - [Tools](#tools)
 	- [Edge TPU Model Compiler](https://coral.withgoogle.com/web-compiler/)
+	- [Edge TPU Prometheus Exporter](https://github.com/adaptant-labs/edgetpu-exporter)
 	- [GravityLink Model Play App](https://play.google.com/store/apps/details?id=com.gravitylink.modelStore)
 - [Models](#models)
 	- [Official Model](https://coral.withgoogle.com/models/)
